@@ -1,4 +1,4 @@
-package strategy.after;
+package strategy;
 
 interface SearchStrategy {
     public void search ();

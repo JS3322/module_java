@@ -1,6 +1,6 @@
-package strategy.after;
+package strategy;
 
-public class MyProgram {
+public class Program {
     private SearchButton searchButton = new SearchButton(this);
 
     public void setModeAll () {
@@ -17,12 +17,12 @@ public class MyProgram {
     }
 
     public void testProgram () {
-        searchButton.onClick();   // "SEARCH ALL" 출력
-        setModeImage();           // 이미지검색 모드로
-        searchButton.onClick();   // "SEARCH IMAGE" 출력
-        setModeNews();            // 뉴스검색 모드로
-        searchButton.onClick();   // "SEARCH NEWS" 출력
-        setModeMap();             // 지도검색 모드로
-        searchButton.onClick();   // "SEARCH MAP" 출력
+        searchButton.onClick();
+        setModeImage();
+        searchButton.onClick();
+        setModeNews();
+        searchButton.onClick();
+        setModeMap();
+        searchButton.onClick();   
     }
 }

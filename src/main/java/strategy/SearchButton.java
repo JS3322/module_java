@@ -1,10 +1,10 @@
-package strategy.after;
+package strategy;
 
 public class SearchButton {
 
-    private MyProgram myProgram;
+    private Program myProgram;
 
-    public SearchButton (MyProgram _myProgram) {
+    public SearchButton (Program _myProgram) {
         myProgram = _myProgram;
     }
 
