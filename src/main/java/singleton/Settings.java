@@ -1,4 +1,4 @@
-package singleton.after;
+package singleton;
 
 public class Settings {
 
