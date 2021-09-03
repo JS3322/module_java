@@ -15,7 +15,8 @@ Pattern Java
 >3. strategy.after/SearchButton.java
 >4. strategy.after/SearchStrategy.java
 
-### [0.0.2] 2021-09-02
+### Log 
+>[20210903] github rep start
 
 ---
 *name : JS  
