@@ -1,4 +1,4 @@
-package strategy;
+package pattern.strategy;
 
 public class Program {
     private SearchButton searchButton = new SearchButton(this);

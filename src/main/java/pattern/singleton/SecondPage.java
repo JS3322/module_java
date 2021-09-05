@@ -1,4 +1,4 @@
-package singleton;
+package pattern.singleton;
 
 public class SecondPage {
     private Settings settings = Settings.getSettings();

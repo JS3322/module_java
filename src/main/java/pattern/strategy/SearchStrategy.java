@@ -1,4 +1,4 @@
-package strategy;
+package pattern.strategy;
 
 interface SearchStrategy {
     public void search ();
