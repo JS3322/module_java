@@ -1,4 +1,4 @@
-package pattern.adapter;
+package pattern.adapter.search;
 
 interface FindAlgorithm {
     public void find (boolean global);

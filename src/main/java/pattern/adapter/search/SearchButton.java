@@ -1,4 +1,4 @@
-package pattern.adapter;
+package pattern.adapter.search;
 
 public class SearchButton {
 

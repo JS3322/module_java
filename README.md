@@ -26,11 +26,9 @@ Pattern Java
 3. pattern.command/Robot.java
 4. pattern.command/RobotKit.java
 
->pattern.adapter
-1. pattern.command/Command.java
-2. pattern.command/Program.java
-3. pattern.command/Robot.java
-4. pattern.command/RobotKit.java
+>pattern.proxy
+1. pattern.proxy/Thumbnail.java
+2. pattern.proxy/Program.java
 
 ---
 ### Log 
