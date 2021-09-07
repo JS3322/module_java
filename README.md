@@ -20,7 +20,13 @@ Pattern Java
 2. pattern.state/ModeSwitch.java
 3. pattern.state/Program.java
 
->pattern.state
+>pattern.command
+1. pattern.command/Command.java
+2. pattern.command/Program.java
+3. pattern.command/Robot.java
+4. pattern.command/RobotKit.java
+
+>pattern.adapter
 1. pattern.command/Command.java
 2. pattern.command/Program.java
 3. pattern.command/Robot.java
