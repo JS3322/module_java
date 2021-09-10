@@ -10,7 +10,8 @@ Pattern Java
 4. command
 5. proxy
 6. facade
-7. Template method
+7. template method
+8. decorator
 
 ---
 ### Log 
