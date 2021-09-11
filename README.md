@@ -2,7 +2,7 @@
 Pattern Java
 ```
 ---
-### Architecture
+### Package Architecture
 >pattern
 1. singleton
 2. strategy
@@ -12,20 +12,11 @@ Pattern Java
 6. facade
 7. template method
 8. decorator
+9. factory method
 
 ---
-### Log 
-[20210903] github rep start
+### Log
 
-[20210905] add state pattern
-
-[20210906] add command pattern
-
-[20210907] add proxy pattern 
-
-[20210908] add facade pattern 
-
-[20210909] add template method pattern
 
 ---
 *name : JS  
