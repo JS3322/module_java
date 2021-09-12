@@ -13,6 +13,7 @@ Pattern Java
 7. template method
 8. decorator
 9. factory method
+10. Abstract factory
 
 ---
 ### Log
