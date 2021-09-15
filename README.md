@@ -15,6 +15,7 @@ Java Module List
 9. factory method
 10. Abstract factory
 11. composite 
+12. mediator
 
 ---
 ### Log
