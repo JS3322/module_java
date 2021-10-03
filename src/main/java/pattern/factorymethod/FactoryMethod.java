@@ -1,3 +1,12 @@
+/**
+ * @Process: complete
+ * @Project_Name: module
+ * @Package_Name: pattern.factorymethod
+ * @Made_By: JS
+ * @The_creation_time: ----
+ * @File_Name: FactoryMethod.java
+ */
+
 package pattern.factorymethod;
 
 class FactoryMethod {

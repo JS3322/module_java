@@ -1,25 +1,26 @@
+
 ```
-Java Module List
+Module List
 ```
 ---
 ### Package Architecture
-####pattern example
-1. singleton
-2. strategy
-3. state
-4. command
-5. proxy
-6. facade
-7. template method
-8. decorator
-9. factory method
-10. Abstract factory
-11. composite 
-12. mediator
+#### Module Name | Module Explanation | Route
+1. pattern | example pattern | src/main/java/pattern
+2. embeddedlibrary | example embeddedlibrary | src/main/java/embeddedlibrary
 
 ---
 ### Log
-20210902 Start pattern example 
+20210902 start pattern example
+
+20211003 start embeddedlibrary
+
+## Stay in touch
+
+- Designer - [JS KIM](https://cleancode.kr)
+
+## License
+
+[MIT licensed](LICENSE)
 
 ---
 *name : JS  

@@ -1,3 +1,12 @@
+/**
+ * @Process: complete
+ * @Project_Name: module
+ * @Package_Name: pattern.decorator
+ * @Made_By: JS
+ * @The_creation_time: ----
+ * @File_Name: DecoratorPattern.java
+ */
+
 package pattern.decorator;
 
 public class DecoratorPattern {

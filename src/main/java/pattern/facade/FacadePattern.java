@@ -1,3 +1,12 @@
+/**
+ * @Process: complete
+ * @Project_Name: module
+ * @Package_Name: pattern.facade
+ * @Made_By: JS
+ * @The_creation_time: ----
+ * @File_Name: FacadePattern.java
+ */
+
 package pattern.facade;
 
 import java.util.Map;

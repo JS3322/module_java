@@ -1,3 +1,12 @@
+/**
+ * @Process: complete
+ * @Project_Name: module
+ * @Package_Name: pattern.composite
+ * @Made_By: JS
+ * @The_creation_time: ----
+ * @File_Name: CompositePattern.java
+ */
+
 package pattern.composite;
 
 public class CompositePattern {

@@ -1,3 +1,12 @@
+/**
+ * @Process: complete
+ * @Project_Name: module
+ * @Package_Name: pattern.mediator
+ * @Made_By: JS
+ * @The_creation_time: ----
+ * @File_Name: MediatorPattern.java
+ */
+
 package pattern.mediator;
 
 public class MediatorPattern {

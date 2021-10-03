@@ -1,3 +1,12 @@
+/**
+ * @Process: complete
+ * @Project_Name: module
+ * @Package_Name: pattern.proxy
+ * @Made_By: JS
+ * @The_creation_time: ----
+ * @File_Name: Program.java
+ */
+
 package pattern.proxy;
 
 import java.util.ArrayList;
