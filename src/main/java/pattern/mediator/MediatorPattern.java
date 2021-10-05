@@ -5,6 +5,7 @@
  * @Made_By: JS
  * @The_creation_time: ----
  * @File_Name: MediatorPattern.java
+ * @contents: -
  */
 
 package pattern.mediator;

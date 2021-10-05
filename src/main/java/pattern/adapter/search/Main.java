@@ -1,14 +1,14 @@
 /**
- * @Process: complete
+ * @Process: fix
  * @Project_Name: module
- * @Package_Name: pattern.strategy
+ * @Package_Name: pattern.adapter
  * @Made_By: JS
  * @The_creation_time: ----
  * @File_Name: Main.java
  * @contents: -
  */
 
-package pattern.strategy;
+package pattern.adapter.search;
 
 public class Main {
     public static void main(String[] args) {

@@ -5,6 +5,7 @@
  * @Made_By: JS
  * @The_creation_time: ----
  * @File_Name: TemplateExample.java
+ * @contents: -
  */
 
 package pattern.templatemethod;
