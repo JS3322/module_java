@@ -17,11 +17,9 @@ Module List
 ---
 
 ## Stay in touch
-
 - Designer - [JS KIM](https://cleancode.kr)
 ---
 ## License
-
 [MIT licensed](LICENSE)
 
 ---
