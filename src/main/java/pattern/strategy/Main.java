@@ -3,7 +3,7 @@
  * @Project_Name: module
  * @Package_Name: pattern.strategy
  * @Made_By: JS
- * @The_creation_time: ----
+ * @The_creation_time: -
  * @File_Name: Main.java
  * @contents: -
  */

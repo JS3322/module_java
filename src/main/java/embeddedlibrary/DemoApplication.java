@@ -1,10 +1,20 @@
-package com.example.demo;
+/**
+ * @Process: init
+ * @Project_Name: module
+ * @Package_Name: embeddedlibrary
+ * @Made_By: JS
+ * @The_creation_time: -
+ * @File_Name: DemoApplication.java
+ * @contents: -
+ */
 
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+package embeddedlibrary;
+
+//import org.springframework.boot.autoconfigure.SpringBootApplication;
 /*import java.io.File;*/
-import com.sun.jna.*;
+//import com.sun.jna.*;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class DemoApplication {
 
     /*	public static native void hello();*/
@@ -17,7 +27,7 @@ public class DemoApplication {
 	}*/
 
     public static void main(String[] args) {
-
+/*
         RustLibrary.INSTANCE.hello();
         //RustLibrary.INSTANCE.hello_check();
         RustLibrary.INSTANCE.sys_out();
@@ -28,14 +38,14 @@ public class DemoApplication {
 
         RustLibrary.hello_check();
 
-/*		File f = new File("lib/libinit_test.dylib");
+		File f = new File("lib/libinit_test.dylib");
 		System.load(f.getAbsolutePath());
 		System.out.println(f);
 		DemoApplication.hello();
 		SpringApplication.run(DemoApplication.class, args);
  */
     }
-
+/*
     interface RustLibrary extends Library {
         RustLibrary INSTANCE = (RustLibrary) Native.loadLibrary(
                 ("lib/libinit_test.dylib"), RustLibrary.class);
@@ -48,8 +58,9 @@ public class DemoApplication {
 
         void add(int a, int b);
         int add_int(int a, int b);
-        /*		void array_output(11, 22, 33, 42, 12, 42);*/
+        //		void array_output(11, 22, 33, 42, 12, 42);
         void sys_out();
     }
-
+*/
 }
+

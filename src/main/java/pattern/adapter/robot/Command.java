@@ -37,10 +37,10 @@ class PickupCommand extends Command {
     }
 }
 
-class CommandOrderAdapter extends Command {
+class commandorderadapter extends Command {
     private Order order;
 
-    public CommandOrderAdapter (Order _order) {
+    public commandorderadapter(Order _order) {
         order = _order;
     }
 

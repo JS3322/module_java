@@ -2,6 +2,7 @@
 ```
 Module List
 ```
+
 ---
 ### Package Architecture
 #### Module Name | Module Explanation | Route
@@ -15,9 +16,9 @@ Module List
 20211003 start embeddedlibrary
 
 ---
-
 ## Stay in touch
 - Designer - [JS KIM](https://cleancode.kr)
+
 ---
 ## License
 [MIT licensed](LICENSE)
@@ -25,4 +26,4 @@ Module List
 ---
 *name : JS  
 *page : cleancode.kr    
-*email : bada@ganada.kr
+*email : js@cleancode.kr

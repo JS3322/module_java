@@ -27,8 +27,11 @@ public class Program {
     }
 
     public void setModeMovie () {
+        /*
         searchButton.setSearchStrategy(
-                new SearchFindAdapter(new FindMovieAltorithm())
+                new SearchFindAdapter(new FindMovieAltorithm());
         );
+
+         */
     }
 }
