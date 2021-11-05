@@ -7,6 +7,6 @@ public class PlasmaDecorator extends FighterDecorator {
     @Override
     public void attack () {
         super.attack();
-        System.out.println("플라즈마 발사");
+        System.out.println("plasma firing");
     }
 }

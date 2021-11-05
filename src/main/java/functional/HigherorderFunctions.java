@@ -13,7 +13,7 @@ package functional;
 
 public class HigherorderFunctions {
     public static void main(String[] args) {
-        String test1 = "test";
+        String test1 = "_temp";
 
 //        var i = "insert";
 //        System.out.println(test1);

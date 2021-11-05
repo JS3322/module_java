@@ -4,14 +4,14 @@ public class KakaoMapView extends MapView {
 
     @Override
     protected void connectMapServer() {
-        System.out.println("카카오 지도 서버에 연결");
+        System.out.println("kakao map server connecting");
     };
     @Override
     protected void showMapOnScreen() {
-        System.out.println("카카오 지도를 보여줌");
+        System.out.println("show kakao map");
     };
     @Override
     protected void moveToCurrentLocation() {
-        System.out.println("카카오 지도에서 현 좌표로 이동");
+        System.out.println("move to current coordinates on Kakao Map");
     };
 }

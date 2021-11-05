@@ -7,6 +7,6 @@ public class MissileDecorator extends FighterDecorator {
     @Override
     public void attack () {
         super.attack();
-        System.out.println("미사일 발사");
+        System.out.println("missile firing");
     }
 }

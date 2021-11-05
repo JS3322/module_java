@@ -17,13 +17,13 @@ class File implements FileSystem {
 
     @Override
     public int getSize() {
-        System.out.println(name + "파일 크기 : " + size);
+        System.out.println(name + "file size : " + size);
         return size;
     }
 
     @Override
     public void remove() {
-        System.out.println(name + " 파일 삭제");
+        System.out.println(name + " delete file");
     }
 
 }
@@ -46,7 +46,7 @@ class Folder implements FileSystem {
         for (FileSystem included : includeds) {
             total += included.getSize();
         }
-        System.out.println(name + "폴더 크기 : " + total);
+        System.out.println(name + "folder size : " + total);
         System.out.println("- - - - -");
         return total;
     }
@@ -56,7 +56,7 @@ class Folder implements FileSystem {
         for (FileSystem included : includeds) {
             included.remove();
         }
-        System.out.println(name + " 폴더 삭제");
+        System.out.println(name + " delete folder");
         System.out.println("- - - - -");
     }
 }

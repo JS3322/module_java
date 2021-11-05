@@ -13,14 +13,13 @@ class RealThumbnail implements Thumbnail {
         title = _title;
         movieUrl = _movieUrl;
 
-        // URL로부터 영상을 다운받는 작업 - 시간 소모
-        System.out.println(movieUrl + "로부터 " + title + "의 영상 데이터 다운");
+        System.out.println(movieUrl + "processing " + title + " video data down");
     }
     public void showTitle () {
-        System.out.println("제목:" + title);
+        System.out.println("title:" + title);
     }
     public void showPreview () {
-        System.out.println(title + "의 프리뷰 재생");
+        System.out.println(title + "preview ");
     }
 }
 
@@ -36,7 +35,7 @@ class ProxyThumbnail implements Thumbnail {
     }
 
     public void showTitle () {
-        System.out.println("제목:" + title);
+        System.out.println("title:" + title);
     }
 
     public void showPreview () {

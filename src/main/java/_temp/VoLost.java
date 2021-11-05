@@ -8,7 +8,7 @@
  * @contents: -
  */
 
-package test;
+package _temp;
 
 class VoLost {
     private final String checkName;

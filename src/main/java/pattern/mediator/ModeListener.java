@@ -8,7 +8,7 @@ class ListView implements ModeListener {
     @Override
     public void onModeChange(Mode mode) {
         System.out.println(
-                "리스트뷰 " + (mode == Mode.LIST ? "보여줌" : "감춤")
+                "list view " + (mode == Mode.LIST ? "show" : "hidden")
         );
     }
 }
@@ -17,7 +17,7 @@ class GalleryView implements ModeListener {
     @Override
     public void onModeChange(Mode mode) {
         System.out.println(
-                "갤러리뷰 " + (mode == Mode.GALLERY ? "보여줌" : "감춤")
+                "gallery view " + (mode == Mode.GALLERY ? "show" : "hidden")
         );
     }
 }
@@ -26,7 +26,7 @@ class DataDownloader implements ModeListener {
     @Override
     public void onModeChange(Mode mode) {
         System.out.println(
-                (mode == Mode.LIST ? "리스트" : "갤러리")
-                        + "뷰용 데이터 다운로드");
+                (mode == Mode.LIST ? "list" : "gallery")
+                        + "view data download");
     }
 }

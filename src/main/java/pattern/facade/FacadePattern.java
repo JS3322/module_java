@@ -20,7 +20,7 @@ public class FacadePattern {
 
         InternetConnection conn = new InternetConnection();
         conn.connect();
-        String data = conn.getData("https://주소_API_URL", myGeoLoc);
+        String data = conn.getData("https://ADDRESS_API_URL", myGeoLoc);
         conn.disconnect();
 
         Map<String, Object> address = new Json().parse(data);

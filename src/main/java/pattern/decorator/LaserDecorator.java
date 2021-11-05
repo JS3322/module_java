@@ -7,6 +7,6 @@ public class LaserDecorator extends FighterDecorator {
     @Override
     public void attack () {
         super.attack();
-        System.out.println("레이저 발사");
+        System.out.println("laser firing");
     }
 }
