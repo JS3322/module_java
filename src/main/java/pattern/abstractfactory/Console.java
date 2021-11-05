@@ -13,16 +13,16 @@ class Console {
         comp1 = lightCompFactory.getComp(Usage.PRESS);
         comp2 = lightCompFactory.getComp(Usage.TOGGLE);
         comp3 = lightCompFactory.getComp(Usage.EXPAND);
-        // 라이트 버튼 생성
-        // 라이트 스위치 생성
-        // 라이트 드랍다운 생성
+        // light button init
+        // light switch init
+        // light dropdown init
 
         comp1 = darkCompFactory.getComp(Usage.PRESS);
         comp2 = darkCompFactory.getComp(Usage.TOGGLE);
         comp3 = darkCompFactory.getComp(Usage.EXPAND);
-        // 다크 버튼 생성
-        // 다크 스위치 생성
-        // 다크 드랍다운 생성
+        // dark button init
+        // dark switch init
+        // dark dropdown init
     }
 }
 

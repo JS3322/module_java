@@ -4,7 +4,7 @@ interface CompFactory {
     public Component getComp (Usage usage);
 }
 
-// 라이트 테마 공장
+// light background
 class LightCompFactory implements CompFactory {
 
     @Override
@@ -19,7 +19,7 @@ class LightCompFactory implements CompFactory {
     }
 }
 
-// 다크 테마 공장
+// dark background
 class DarkCompFactory implements CompFactory {
 
     @Override
