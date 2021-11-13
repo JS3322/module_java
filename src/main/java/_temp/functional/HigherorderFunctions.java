@@ -1,7 +1,7 @@
 /**
  * @Process: init
  * @Project_Name: module
- * @Package_Name: functional
+ * @Package_Name: _temp.functional
  * @Made_By: JS
  * @The_creation_time: -
  * @File_Name: HigherorderFunctions.java
@@ -9,7 +9,7 @@
  * @contents: -
  */
 
-package functional;
+package _temp.functional;
 
 public class HigherorderFunctions {
     public static void main(String[] args) {
