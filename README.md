@@ -4,19 +4,10 @@ Module List
 ```
 
 ---
-### Package Architecture
-#### Module Name | Module Explanation | Route
-1. pattern | example pattern | src/main/java/pattern
-2. embeddedlibrary | example embeddedlibrary | src/main/java/embeddedlibrary
-3. swing | example swing UI | src/main/java/swing
-
----
-### Log
-20210902 start pattern example
-
-20211003 start embeddedlibrary
-
-20211105 add package Swing columnDataSwap
+### TODO List | Route
+- [O] example pattern | src/main/java/pattern
+- [O] example embeddedlibrary | src/main/java/embeddedlibrary
+- [O] example swing UI | src/main/java/swing
 
 ---
 ## Stay in touch
