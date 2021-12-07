@@ -5,16 +5,16 @@ Module List
 
 ---
 ### TODO List | Route
-- [O] example pattern | src/main/java/pattern
-- [O] example embeddedlibrary | src/main/java/embeddedlibrary
-- [O] example swing UI | src/main/java/swing
+- [x] example pattern | src/main/java/pattern
+- [x] example embeddedlibrary | src/main/java/embeddedlibrary
+- [x] example swing UI | src/main/java/swing
 
 ---
-## Stay in touch
+### Stay in touch
 - Developer - [JS KIM](https://cleancode.kr)
 
 ---
-## License
+### License
 [MIT licensed](LICENSE)
 
 ---
